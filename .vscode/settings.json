@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/jtjisgod/.virtualenvs/angr/bin/python2"
+    "python.pythonPath": "/home/jtjisgod/.virtualenvs/angr/bin/python2",
+    "files.associations": {
+        "string.h": "c"
+    },
+    "python.linting.enabled": false
 }
